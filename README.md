@@ -15,22 +15,25 @@ Welcome to my GitHub profile! I'm Pralhad Vaishnav, a recent M.S. in Information
 
 ## 💼 Professional Experience
 
-### Data and Technology Analyst Intern @ Patient-Centered Outcomes Research Institute (September 2023 - Present)
-- Revamped legacy data request process, reducing fulfillment time by 40%
-- Consolidated data sources into MySQL database for self-serve analytics
-- Automated hand-offs, reducing average request handling time from 2 weeks to 3 days
+### Product Manager @ Patient Centered Outcomes Research Institute (September 2023 - May 2024)
+- Built product roadmap for revamping company's legacy data processes
+- Facilitated JAD sessions with cross-functional teams, contributing to a 30% reduction in response times
+- Monitored KPIs, leading to a 25% increase in user satisfaction scores over 6 months
+- Developed change management strategy, driving continuous improvement
 
-### IT Business Analyst Intern @ Massey Services Inc. (May 2023 - August 2023)
-- Analyzed sales trends and market dynamics for product optimization
-- Assisted sprint planning using Asana and Azure DevOps
-- Delivered 20% product performance gains and $10M revenue growth
+### IT Business Analyst @ Massey Services Inc. (May 2023 - August 2023)
+- Migrated over 1 million customer records from ServiceNow to Salesforce CRM
+- Conducted SIT and UAT across 15 core business processes, resolving 50+ critical issues
+- Crafted BRDs, user stories, and epics to effectively communicate requirements
+- Collaborated with stakeholders to align on project goals and risk mitigation strategies
 
-### Business Operations Manager @ Syracuse University - SUFS (August 2022 - May 2023)
-- Built a mobile food ordering product, increasing revenue by 20%
-- Integrated Power App with tab systems for seamless order fulfillment
-- Grew workforce productivity by 25% through operational data insights
+### Product Management Consultant @ iConsult Collaborative, Syracuse University (August 2022 - May 2023)
+- Led product vision and strategy for e-commerce applications, achieving 80% user satisfaction
+- Developed and executed product roadmap, prioritizing features to achieve OKRs
+- Conducted usability tests and A/B experiments, improving user experience by 25%
+- Performed financial analysis to evaluate feature investments, increasing adoption rates by 15%
 
-### Product Development Engineer @ Signify, Pune, India (March 2021 - August 2022)
+### Associate Product Manager @ Signify, Pune, India (March 2021 - August 2022)
 - Led product development through full SDLC
 - Utilized agile and scrum methodologies for timely project delivery
 - Implemented CI/CD tools, reducing overhead by 25%
